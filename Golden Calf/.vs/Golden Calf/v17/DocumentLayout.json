@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|e:\\github\\unity\\personalprojects\\golden calf\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|e:\\github\\unity\\personalprojects\\golden calf\\assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\assets\\scripts\\cards\u0026troops\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\u0026troops\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\assets\\scripts\\hex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\assets\\scripts\\rotatingskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatingskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\assets\\scripts\\mapgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Hand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hand.cs",
+              "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Hand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hand.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:02:47.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.cs",
+              "DocumentMoniker": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
+              "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wDUAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:00:58.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Cards\u0026Troops\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cards\u0026Troops\\Unit.cs",
+              "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Cards\u0026Troops\\Unit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cards\u0026Troops\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:39:27.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotatingSkybox.cs",
+              "DocumentMoniker": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\RotatingSkybox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotatingSkybox.cs",
+              "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\RotatingSkybox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotatingSkybox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:24:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hex.cs",
+              "DocumentMoniker": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Hex.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hex.cs",
+              "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\Hex.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hex.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:46:52.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapGen.cs",
+              "DocumentMoniker": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\MapGen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapGen.cs",
+              "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\MapGen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapGen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:46:16.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveCamera.cs",
+              "DocumentMoniker": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\MoveCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveCamera.cs",
+              "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden Calf\\Assets\\Scripts\\MoveCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveCamera.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:54:52.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

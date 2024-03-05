@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a8642ad1ccdcdb446ab18746cfe673a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  - cardModel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
