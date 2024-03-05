@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\GitHub\\Unity\\PersonalProjects\\Golden_Calf\\Golden Calf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|E:\\GitHub\\Unity\\PersonalProjects\\Golden_Calf\\Golden Calf\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|e:\\github\\unity\\personalprojects\\golden_calf\\golden calf\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|e:\\github\\unity\\personalprojects\\golden_calf\\golden calf\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|E:\\GitHub\\Unity\\PersonalProjects\\Golden_Calf\\Golden Calf\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32DE70A8-D87C-F2E9-EF9C-D68C6579E31C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,8 +62,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Card.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAgwDUAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T16:00:58.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T16:00:58.592Z"
             },
             {
               "$type": "Document",
@@ -121,7 +120,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveCamera.cs",
               "ToolTip": "E:\\GitHub\\Unity\\PersonalProjects\\Golden_Calf\\Golden Calf\\Assets\\Scripts\\MoveCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\MoveCamera.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAACPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T13:54:52.462Z",
               "EditorCaption": ""

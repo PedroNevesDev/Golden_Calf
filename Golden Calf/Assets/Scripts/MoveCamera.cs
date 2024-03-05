@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -7,7 +8,6 @@ public class MoveCamera : MonoBehaviour
 {
     
     Vector3 moving;
-    Vector3 rotation;
     [SerializeField]Transform camPivot;
 
 
@@ -20,18 +20,15 @@ public class MoveCamera : MonoBehaviour
     {
         moving = transform.position;
     }
-    public void StopRotation()
-    {
-        rotation = new Vector3(0, 0, 0);
-    }
+
     // Update is called once per frame
     private void FixedUpdate()
     {
-                camPivot.transform.position += moving * Time.deltaTime*movingSpeed;
+        camPivot.transform.position = Vector3.Lerp(camPivot.transform.position, camPivot.transform.position +moving,movingSpeed*Time.deltaTime);
 
-        camPivot.transform.eulerAngles += new Vector3(0,0,0)+rotation*Time.deltaTime*rotationSpeed;
+        camPivot.transform.eulerAngles += new Vector3(0, Input.GetAxisRaw("Diagonal"), 0)*rotationSpeed*Time.deltaTime*rotationSpeed;
+        camPivot.transform.position += new Vector3(0, -Input.mouseScrollDelta.y, 0) * Time.deltaTime * zoomSpeed;
 
-        camPivot.transform.position += new Vector3(0, -Input.mouseScrollDelta.y, 0)*Time.deltaTime*zoomSpeed;
     }
     void Update()
     {
@@ -43,26 +40,9 @@ public class MoveCamera : MonoBehaviour
 
         moving = camPivot.right * Input.GetAxisRaw("Horizontal")+ camPivot.forward *Input.GetAxisRaw("Vertical") ;
 
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            rotation = new Vector3(0, 10, 0);
-        }
-
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            rotation = new Vector3(0, - 10, 0);
-        }
-
-        HandleKeyReleases();
-    }
-
-
-    void HandleKeyReleases()
-    {
-       if(Input.GetKeyUp(KeyCode.Q))
-            StopRotation();
-       if (Input.GetKeyUp(KeyCode.E))
-            StopRotation();
     }
 
 }
+
+
+
