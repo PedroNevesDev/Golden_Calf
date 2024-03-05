@@ -25,14 +25,18 @@ public class MoveCamera : MonoBehaviour
         rotation = new Vector3(0, 0, 0);
     }
     // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        InputHandle();
-        camPivot.transform.position += moving * Time.deltaTime*movingSpeed;
+                camPivot.transform.position += moving * Time.deltaTime*movingSpeed;
 
         camPivot.transform.eulerAngles += new Vector3(0,0,0)+rotation*Time.deltaTime*rotationSpeed;
 
         camPivot.transform.position += new Vector3(0, -Input.mouseScrollDelta.y, 0)*Time.deltaTime*zoomSpeed;
+    }
+    void Update()
+    {
+        InputHandle();
+
     }
     void InputHandle()
     {
